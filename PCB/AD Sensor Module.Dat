@@ -1,0 +1,22 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AD Sensor Module.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\ADSensorModule-Hardware\PCB\AD Sensor Module.PrjPcb|ReportField=Title~Bill of Materials For Project [AD Sensor Module.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~51|ReportField=ReportTime~3:04:19 PM|ReportField=ReportDate~2/22/2016|ReportField=ReportDateTime~2/22/2016 3:04:19 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/22/2016|ReportField=CurrentTime~2:51:15 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\ADSensorModule-Hardware\PCB\AD Sensor Module.SchDoc|ReportField=DocumentName~AD Sensor Module.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/21/2016|ReportField=Organization~|ReportField=ProjectName~AD Sensor Module.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AD Sensor Module.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\ADSensorModule-Hardware\PCB\AD Sensor Module.PrjPcb
+1|100nF|CAP CER 0402 100nF 16V 10% X7R|C1, C2, C3, C4|C0402|GRM155R71C104KA88D|4
+2|EEE-1VA101XP|CAP ALUM 100UF 35V 20% SMD|C5|EEE-1VA101XP|EEE-1VA101XP|1
+3|10uF 50V|CAP CER 10UF 50V 10% X5R 1206|C6|C1206|CL31A106KBHNNNE|1
+4|0603|CAP CER 22UF 6.3V 10% X5R 0805|C7|C0805|CL21A226KQQNNNE|1
+5|5988140107F|LED 0805 Yellow|D1, D2, D3|LED2012120|5988140107F|3
+6|BLM15HG601SN1D|BLM15HG601SN1D|FB1|BLM18PG121SN1D|BLM15HG601SN1D|1
+7|M3 Hole|3mm Hole|H1, H2, H3, H4|Hole-3mm|Hole|4
+8|VLS252012T-2R2M1R3|VLS252012T-2R2M1R3|L1|VLS252012T-2R2M1R3|VLS252012T-2R2M1R3|1
+9|Molex 0705430003|Molex 4 Pin Clip Connector|M1, M2, M3, M4|4POL254|Molex 0705430003 Alt|4
+10|Molex 70543-03||P1, P2, P3, P4, P5, P6, P8, P11|70543-03|Molex Endstop|8
+11|Header 4|Header, 4-Pin|P7|HDR1X4|Header 4|1
+12|Header 4X2|Header, 4-Pin, Dual row|P9|HDR2X4|Header 4X2|1
+13|Header 3|Header, 3-Pin|P10|HDR1X3|Header 3|1
+14|Molex 0705530001|Molex 0705530002 Right Angle 2.54mm Shrouded Header|P12|0705530001|0705530001|1
+15|4.7K|RES 0603 4.7K 100mW 1%|R1, R2, R3, R4, R5, R6, R7, R8|R0603|ERJ3EKF4701V|8
+16|1K|RES 0603 1K 100mW 1%|R9, R10, R11, R13, R14, R15|R0603|ERJ-3EKF1001V|6
+17|100K|RES 100K OHM 1/10W 1% 0603 SMD|R12|R0603|RC0603FR-07100KL|1
+18|TL3301AF160QG|TL3301AF160QG|SW1|TL3301AF160QG|TL3301AF160QG|1
+19|MKL05Z16VFK4 - VQFN24|ARM Cortex M0+|U1|98ASA00474D|MKL05Z16VFK4 - 24 Pin VQFN|1
+20|PCA9518DWR|IC EXPANDABLE 5CH I2C HUB 20SOIC|U2|PCA9518DWR|PCA9518DWR|1
+21|TPS62162DSG||U3|DSG8-1600X900TP|TPS62162SOP|1
