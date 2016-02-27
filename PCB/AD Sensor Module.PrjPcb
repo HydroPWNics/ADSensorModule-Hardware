@@ -121,7 +121,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OHCJRVIH
 
 [Document6]
 DocumentPath=..\..\Mini-Rambo\board\libraries\3Delight.SCHLIB
@@ -138,7 +138,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XFLWSQLU
 
 [Document7]
 DocumentPath=AD Sensor Module.PcbDoc
