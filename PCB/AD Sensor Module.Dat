@@ -1,27 +1,29 @@
-﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AD Sensor Module.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\ADSensorModule-Hardware\PCB\AD Sensor Module.PrjPcb|ReportField=Title~Bill of Materials For Project [AD Sensor Module.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~69|ReportField=ReportTime~12:59:45 PM|ReportField=ReportDate~3/11/2016|ReportField=ReportDateTime~3/11/2016 12:59:45 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/11/2016|ReportField=CurrentTime~12:59:19 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\ADSensorModule-Hardware\PCB\AD Sensor Module.SchDoc|ReportField=DocumentName~AD Sensor Module.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/11/2016|ReportField=Organization~|ReportField=ProjectName~AD Sensor Module.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AD Sensor Module.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\ADSensorModule-Hardware\PCB\AD Sensor Module.PrjPcb
-1|100nF|CAP CER 0402 100nF 16V 10% X7R|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C16, C17|C0402|GRM155R71C104KA88D|15
-2|0603|CAP CER 9PF 50V NP0 0603, CAP CER 9PF 50V NP0 0603, CAP CER 1UF 25V X5R 0402, CAP CER 1UF 25V X5R 0402, CAP CER 10UF 6.3V X5R 0603|C14, C15, C18, C19, C20|C0603|CL10C090CB8NNNC, CL10C090CB8NNNC, CL05A105KA5NQNC, CL05A105KA5NQNC, CL10A106KQ8NNNC|5
-3|5988140107F|LED 0805 Yellow|D1, D2, D4, D5|LED2012120|5988140107F|4
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AD Sensor Module.PrjPcb|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\ADSensorModule-Hardware\PCB\AD Sensor Module.PrjPcb|ReportField=Title~Bill of Materials For Project [AD Sensor Module.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~79|ReportField=ReportTime~3:58:08 PM|ReportField=ReportDate~3/15/2016|ReportField=ReportDateTime~3/15/2016 3:58:08 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/14/2016|ReportField=CurrentTime~10:16:09 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\ADSensorModule-Hardware\PCB\AD Sensor Module.SchDoc|ReportField=DocumentName~AD Sensor Module.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/14/2016|ReportField=Organization~|ReportField=ProjectName~AD Sensor Module.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AD Sensor Module.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\ADSensorModule-Hardware\PCB\AD Sensor Module.PrjPcb
+1|100nF|CAP CER 0402 100nF 16V 10% X7R|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C16, C17, C21, C22|C0402|GRM155R71C104KA88D|17
+2|0603|CAP CER 9PF 50V NP0 0603, CAP CER 9PF 50V NP0 0603, CAP CER 1UF 25V X5R 0402, CAP CER 1UF 25V X5R 0402, CAP CER 10UF 6.3V X5R 0603, CAP CER 0.1UF 50V 10% X7R 0603|C14, C15, C18, C19, C20, C23|C0603|CL10C090CB8NNNC, CL10C090CB8NNNC, CL05A105KA5NQNC, CL05A105KA5NQNC, CL10A106KQ8NNNC, CL10B104KB8SFNC|6
+3|5988140107F|LED 0805 Yellow|D1, D2, D4, D5, D6, D7|LED2012120|5988140107F|6
 4|BAT20JFILM|DIODE SCHOTTKY 23V 1A SOD323|D3|BAT20JFILM - DIOM1712X11N|BAT20JFILM|1
 5|BLM15HG601SN1D|BLM15HG601SN1D|FB1|BLM18PG121SN1D|BLM15HG601SN1D|1
-6|M3 Hole|3mm Hole|H1, H2, H3, H4|Hole-3mm|Hole|4
+6|M3 Hole|3mm Hole|H1, H2|Hole-3mm|Hole|2
 7|ESP8266 ESP-02|ESP8266 ESP-02|IC1|ESP8266 ESP-02|ESP8266 ESP-02|1
 8|B4B-PH-K-S LF SN|CONN HEADER PH TOP 4POS 2MM|J1, J2, J3, J4, J5, J7, J9, J11|B4B-PH-K-S(LF)(SN)|B4B-PH-K-S LF SN|8
 9|DX4R005J91R5100|Micro USB Jack B|J6|Micro USB Circular Holes Only|Micro USB|1
 10|S2B-PH-K-S(LF)(SN)|CONN HEADER PH SIDE 2POS 2MM|J8|S2B-PH-K-S(LF)(SN)|S2B-PH-K-S(LF)(SN)|1
 11|S3B-PH-K-S(LF)(SN)|CONN HEADER PH SIDE 2POS 2MM|J10|S3B-PH-K-S(LF)(SN)|S3B-PH-K-S(LF)(SN)|1
-12|Header 4|Header, 4-Pin|P1|HDR1X4|Header 4|1
+12|FTSH-105-XX-X-DV|FTSH-105-XX-X-DV ARM COrtex JTAG|J12|FTSH-105-XX-X-DV|FTSH-105-XX-X-DV|1
 13|Header 3|Header, 3-Pin|P2|HDR1X3|Header 3|1
-14|Header 6H|Header, 6-Pin, Right Angle|P3|HDR1X6H|Header 6H|1
-15|DMG2307L-7|MOSFET P-CH 30V 2.5A SOT-23|Q1|DMG2307L-7 - SOT92P240X102-3N|DMG2307L-7|1
-16|1K|RES 0603 1K 100mW 1%|R1, R2, R3, R6, R7|R0603|ERJ-3EKF1001V|5
-17|4.7K|RES 0603 4.7K 100mW 1%|R4, R5, R8, R9, R10, R12, R14, R15|R0603|ERJ3EKF4701V|8
-18|ERJ-6ENF2001V|RES SMD 2K OHM 1% 1/8W 0805|R11, R13|R0805|ERJ-6ENF2001V|2
-19|RC1005F4870CS|RES SMD 487 OHM 1% 1/16W 0402|R16|R0402|RC1005F4870CS|1
-20|TL3301AF160QG|TL3301AF160QG|SW1|TL3301AF160QG|TL3301AF160QG|1
-21|MKL17Z256VFM4 - 32 Pin VQFN|ARM Cortex M0+ Microcontroller for Low Power Applications, MKL1x Series|U1|MKL17Z256VFM4 - QFN50P500X500X65_HS-33N|MKL17Z256VFM4 - 32 Pin VQFN|1
-22|74HC4052|Dual 4-channel analog multiplexer/demultiplexer|U2|74HC4052|74HC4052|1
-23|PCA9518DWR|IC EXPANDABLE 5CH I2C HUB 20SOIC|U3|PCA9518DWR|PCA9518DWR|1
-24|BQ24210DQCT|IC BATT CHARGER LI-ION 10WSON (VBUS and Solar Voltaic Cell)|U4|bq24210 - QFN50P300X200X80-10N|BQ24210DQCT|1
-25|AZ1117CR-3.3TRG1|IC REG LDO 3.3V 0.8A SOT89|U5|AZ1117CR-3.3TRG1 - SOT89-150P410X160-3N|AZ1117CR-3.3TRG1|1
-26|ABS07-32.768KHZ-9-T|32.768kHz ±20ppm Crystal 9pF 70 kOhm -40°C ~ 85°C Surface Mount 2-SMD|X1|ABS07-32.768KHZ-9-T|ABS07-32.768KHZ-9-T|1
+14|DMG2307L-7|MOSFET P-CH 30V 2.5A SOT-23|Q1|DMG2307L-7 - SOT92P240X102-3N|DMG2307L-7|1
+15|1K|RES 0603 1K 100mW 1%|R1, R2, R3, R6, R7, R22, R23|R0603|ERJ-3EKF1001V|7
+16|4.7K|RES 0603 4.7K 100mW 1%|R4, R5, R8, R9, R10, R12, R14, R15, R18, R19|R0603|ERJ3EKF4701V|10
+17|ERJ-6ENF2001V|RES SMD 2K OHM 1% 1/8W 0805|R11, R13|R0805|ERJ-6ENF2001V|2
+18|RC1005F4870CS|RES SMD 487 OHM 1% 1/16W 0402|R16|R0402|RC1005F4870CS|1
+19|100K|Standin 0402|R17|R0402|Standin 0402|1
+20|RR0510R-270-D|RES SMD 27 OHM 0.5% 1/16W 0402|R20, R21|R0402|RR0510R-270-D|2
+21|TL3301AF160QG|TL3301AF160QG|SW1|TL3301AF160QG|TL3301AF160QG|1
+22|MKL17Z256VFM4 - 32 Pin VQFN|ARM Cortex M0+ Microcontroller for Low Power Applications, MKL1x Series|U1|MKL17Z256VFM4 - QFN50P500X500X65_HS-33N|MKL17Z256VFM4 - 32 Pin VQFN|1
+23|74HC4052|Dual 4-channel analog multiplexer/demultiplexer|U2|74HC4052|74HC4052|1
+24|PCA9518DWR|IC EXPANDABLE 5CH I2C HUB 20SOIC|U3|PCA9518DWR|PCA9518DWR|1
+25|BQ24210DQCT|IC BATT CHARGER LI-ION 10WSON (VBUS and Solar Voltaic Cell)|U4|bq24210 - QFN50P300X200X80-10N|BQ24210DQCT|1
+26|AZ1117CR-3.3TRG1|IC REG LDO 3.3V 0.8A SOT89|U5|AZ1117CR-3.3TRG1 - SOT89-150P410X160-3N|AZ1117CR-3.3TRG1|1
+27|FT201XQ-R|IC USB FS I2C 16QFN|U6|FT201XQ-R - QFN65P400X400X80_HS-17N|FT201XQ-R|1
+28|ABS07-32.768KHZ-9-T|32.768kHz ±20ppm Crystal 9pF 70 kOhm -40°C ~ 85°C Surface Mount 2-SMD|X1|ABS07-32.768KHZ-9-T|ABS07-32.768KHZ-9-T|1
